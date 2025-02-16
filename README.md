@@ -34,6 +34,19 @@ MarketSense is a modern stock market analytics platform that combines real-time 
 - Node.js 14+
 - Alpha Vantage API key
 
+### Environment Variables
+
+For security reasons, environment variables are not committed to the repository. You'll need to:
+
+1. Get an API key from [Alpha Vantage](https://www.alphavantage.co/support/#api-key)
+2. Create a `.env` file in the `backend` directory
+3. Add your API key to the `.env` file:
+```bash
+ALPHA_VANTAGE_API_KEY=your_api_key_here
+```
+
+> ⚠️ **Security Note**: Never commit your `.env` file or expose your API keys in your code. The `.env` file is included in `.gitignore` to prevent accidental commits.
+
 ### Installation
 
 1. Clone the repository
