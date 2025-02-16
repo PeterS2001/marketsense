@@ -80,6 +80,14 @@ npm run dev
 3. Analyze historical trends and predictions
 4. Monitor technical signals for trading insights
 
+## Screenshots
+
+Here are some screenshots of the MarketSense application:
+
+![Dashboard Overview](screenshots/dashboard.png)
+
+![Market Analysis](screenshots/MarketSenseIMG2.PNG)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
