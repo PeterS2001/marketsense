@@ -51,7 +51,7 @@ ALPHA_VANTAGE_API_KEY=your_api_key_here
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/marketsense.git
+git clone https://github.com/PeterS2001/marketsense.git
 cd marketsense
 ```
 
@@ -98,8 +98,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [Your Email]
-Project Link: [https://github.com/yourusername/marketsense](https://github.com/yourusername/marketsense)
+Peter S
+
+Project Link: [https://github.com/PeterS2001/marketsense](https://github.com/PeterS2001/marketsense)
 
 ## Acknowledgments
 
